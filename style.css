@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-image:linear-gradient(to bottom right, red, yellow);
+background-repeat: no-repeat;
+}
+img{
+height: 150px;
+}
+#n{
+  height:80px
+}
+p{
+  font-size:25px;
+}
+
+h1{
+    font-family: 'Almendra SC', cursive;
+}
+.links:hover{
+    background-color:darkturquoise;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}      
+.links{
+    float: right;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:cursive;
+    font-size: 20px;
+} 
